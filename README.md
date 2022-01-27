@@ -2,7 +2,7 @@
 
 Docker packaging of the [Ookla Speed Test Client](https://www.speedtest.net/apps/cli).  
 This includes an expect script wrapper to avoid having to manually accept the license agreements:
-running this implicitly means that you are accepting the licensing aggreements. 
+running this implicitly means that you are accepting the licensing agreements. 
 
 Run in docker as follows:
 
